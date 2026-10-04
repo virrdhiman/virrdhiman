@@ -22,3 +22,5 @@ jobs:
           feed_list: "https://virender.in/blog/feed.xml"
           max_post_count: 5
           commit_message: "Update README with latest blog posts"
+          committer_username: "Virender Dhiman"
+          committer_email: "virrdhiman@gmail.com"
