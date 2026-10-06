@@ -73,6 +73,7 @@ A desktop AI coding agent that works with free API keys. It pairs an AI assistan
 - Plan Mode, approval prompts for risky actions, recovery checkpoints, and searchable local chat history
 - No account and no telemetry: chats, settings and keys stay on your machine
 - Windows, macOS and Linux · TypeScript, React, Electron, Vite
+- Installers for those platforms are in the latest release, [v1.1.0](https://github.com/virrdhiman/desktop-agent/releases/tag/v1.1.0)
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
