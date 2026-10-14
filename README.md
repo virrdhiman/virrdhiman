@@ -79,15 +79,15 @@ A desktop AI coding agent that works with free API keys. It pairs an AI assistan
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/virrdhiman/desktop-agent?style=flat-square)
 
-<!-- TODO: Add more projects here once you make them public. Candidate private repos that already have READMEs:
-     - agentic-ai-solution: autonomous agentic engineering system (orchestrator, providers, tools, CLI + REST API; Python, Docker; MIT)
-     - audio-transcript: desktop app that turns call/audio recordings into Word transcripts with word-level timestamps (Python, faster-whisper)
-     - reel-voiceover-generator: timed voiceover audio for Reels/LinkedIn videos (Python, Edge TTS, FFmpeg; MIT)
-     - hyperframes-video-agent-master: HTML + GSAP video compositions rendered to deterministic video (HyperFrames)
-     - google-apps-script: Apps Script projects for study reminders and a spreadsheet-backed project tracker
-     - safe-oom-resolver: data-safe fix kit for Windows/macOS out-of-memory crashes
-     - seo-tools / excel-tools: small Python utilities (Word SEO audit report, Excel workbook builder)
-     Only link them after they are public; a private link shows visitors a 404. -->
+### More public projects
+
+- [agentic-ai-solution](https://github.com/virrdhiman/agentic-ai-solution): autonomous agentic engineering system (orchestrator, providers, tools, CLI + REST API; Python, Docker)
+- [audio-transcript](https://github.com/virrdhiman/audio-transcript): desktop app that turns call/audio recordings into Word transcripts with word-level timestamps (Python, faster-whisper)
+- [reel-voiceover-generator](https://github.com/virrdhiman/reel-voiceover-generator): timed voiceover audio for Reels/LinkedIn videos (Python, Edge TTS, FFmpeg)
+- [hyperframes-video-agent-master](https://github.com/virrdhiman/hyperframes-video-agent-master): HTML + GSAP video compositions rendered to deterministic video (HyperFrames)
+- [social-poster](https://github.com/virrdhiman/social-poster): portable multi-brand posting engine for Facebook, Instagram and LinkedIn (Python)
+- [safe-oom-resolver](https://github.com/virrdhiman/safe-oom-resolver): data-safe fix kit for Windows/macOS out-of-memory crashes
+- [excel-tools](https://github.com/virrdhiman/excel-tools): small Python utility for building Excel workbooks
 
 ## Selected work
 
@@ -128,10 +128,9 @@ Other selected certificates (full list with credential IDs on [virender.in/certi
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=virrdhiman&show_icons=true&hide_border=true&theme=default" alt="Virender's GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=virrdhiman&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default" alt="Virender's GitHub stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virrdhiman&layout=compact&hide_border=true" alt="Top languages">
 </p>
-<!-- TODO: The public github-readme-stats instance only counts public repos (today just desktop-agent). If you want private work included, self-host github-readme-stats with your own token and count_private=true, or turn on "Include private contributions" in your profile settings for the contribution graph. -->
 
 ## Let's connect
 
