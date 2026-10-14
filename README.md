@@ -85,7 +85,6 @@ A desktop AI coding agent that works with free API keys. It pairs an AI assistan
 - [audio-transcript](https://github.com/virrdhiman/audio-transcript): desktop app that turns call/audio recordings into Word transcripts with word-level timestamps (Python, faster-whisper)
 - [reel-voiceover-generator](https://github.com/virrdhiman/reel-voiceover-generator): timed voiceover audio for Reels/LinkedIn videos (Python, Edge TTS, FFmpeg)
 - [hyperframes-video-agent-master](https://github.com/virrdhiman/hyperframes-video-agent-master): HTML + GSAP video compositions rendered to deterministic video (HyperFrames)
-- [social-poster](https://github.com/virrdhiman/social-poster): portable multi-brand posting engine for Facebook, Instagram and LinkedIn (Python)
 - [safe-oom-resolver](https://github.com/virrdhiman/safe-oom-resolver): data-safe fix kit for Windows/macOS out-of-memory crashes
 - [excel-tools](https://github.com/virrdhiman/excel-tools): small Python utility for building Excel workbooks
 
