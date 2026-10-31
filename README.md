@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Virender Dhiman</h1>
 
 <p align="center">
-  <b>AI & Workflow Automation Consultant · Automation / AI & Transformation Head @ FlightPath</b><br>
-  18 years in IT, ERP (SAP, Tally) & MIS · Founder, <a href="https://productiveit.in/">Productive iT</a> · Delhi, India<br>
+  <b>AI & Workflow Automation Consultant (Independent) · Automation / AI & Transformation Head @ FlightPath</b><br>
+  15+ years in IT, ERP (SAP, Tally) & MIS · Founder, <a href="https://productiveit.in/">Productive iT</a> · Delhi, India<br>
   I turn manual business operations into AI agents, automated workflows and trustworthy dashboards
 </p>
 
