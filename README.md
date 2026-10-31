@@ -1,9 +1,13 @@
 <h1 align="center">Hi, I'm Virender Dhiman</h1>
 
 <p align="center">
-  <b>Automation Engineer · Python Developer · AI Agents & Workflow Automation</b><br>
-  Independent consultant · <a href="https://productiveit.in/">Productive iT</a> · Delhi, India<br>
-  CRM / ERP process automation · Data integration · Business intelligence
+  <b>AI & Workflow Automation Consultant · Automation / AI & Transformation Head @ FlightPath</b><br>
+  18 years in IT, ERP (SAP, Tally) & MIS · Founder, <a href="https://productiveit.in/">Productive iT</a> · Delhi, India<br>
+  I turn manual business operations into AI agents, automated workflows and trustworthy dashboards
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-AI%20%2F%20Automation%20%26%20IT%20leadership%20roles%20·%20India%20·%20Gulf%20·%20Europe%20·%20Remote-2EA44F?style=flat-square" alt="Open to roles">
 </p>
 
 <p align="center">
@@ -22,6 +26,15 @@ I build systems that run before the meeting. I help business owners and leadersh
 I've worked where business and technology meet since 2008: first as a software engineer, then four years as an SAP MM consultant, then nearly ten years as Manager (IT & ERP) at Rhiti Group. There I ran ERP operations, MIS reporting and Google Workspace, and cut record-management errors by about 15% with SOPs and cleaner reporting. Since April 2026 I've been an independent consultant on AI, automation and digital transformation.
 
 **How I work:** Diagnose → SOP → Automate → MIS. Process first, tools second.
+
+## At a glance
+
+| | |
+|---|---|
+| 🤖 **AI & automation** | AI agents, LLM tools (Groq, Gemini, Ollama), Python and Apps Script automation |
+| 🏢 **ERP / CRM** | 4 yrs SAP MM consultant, ~10 yrs Manager IT & ERP (Rhiti Group), Tally, Salesforce, Zoho |
+| 📊 **MIS & BI** | Power BI, Tableau, Excel and Sheets KPI packs; ~15% fewer record errors |
+| 🚀 **Delivery** | Lean Six Sigma Green Belt, Agile Scrum Master, Digital Project Manager |
 
 ## What I do
 
@@ -81,12 +94,24 @@ A desktop AI coding agent that works with free API keys. It pairs an AI assistan
 
 ### More public projects
 
+| Project | Value in one line | Stack |
+|---|---|---|
+| [ProposalKit India](https://github.com/virrdhiman/proposalkit-india) | AI proposals + GST-ready invoices for Indian freelancers and small agencies | TypeScript, AI |
+| [agentic-ai-solution](https://github.com/virrdhiman/agentic-ai-solution) | Orchestrator + tools + REST API for autonomous engineering agents | Python, Docker |
+| [audio-transcript](https://github.com/virrdhiman/audio-transcript) | Call recordings to Word transcripts with word-level timestamps | Python, faster-whisper |
+| [reel-voiceover-generator](https://github.com/virrdhiman/reel-voiceover-generator) | Timed voiceovers for Reels and LinkedIn videos in minutes | Python, Edge TTS, FFmpeg |
+| [excel-tools](https://github.com/virrdhiman/excel-tools) | Generate multi-sheet Excel workbooks from code | Python, pandas, openpyxl |
+
+<details><summary>Full list</summary>
+
 - [agentic-ai-solution](https://github.com/virrdhiman/agentic-ai-solution): autonomous agentic engineering system (orchestrator, providers, tools, CLI + REST API; Python, Docker)
 - [audio-transcript](https://github.com/virrdhiman/audio-transcript): desktop app that turns call/audio recordings into Word transcripts with word-level timestamps (Python, faster-whisper)
 - [reel-voiceover-generator](https://github.com/virrdhiman/reel-voiceover-generator): timed voiceover audio for Reels/LinkedIn videos (Python, Edge TTS, FFmpeg)
 - [hyperframes-video-agent-master](https://github.com/virrdhiman/hyperframes-video-agent-master): HTML + GSAP video compositions rendered to deterministic video (HyperFrames)
 - [safe-oom-resolver](https://github.com/virrdhiman/safe-oom-resolver): data-safe fix kit for Windows/macOS out-of-memory crashes
 - [excel-tools](https://github.com/virrdhiman/excel-tools): small Python utility for building Excel workbooks
+
+</details>
 
 ## Selected work
 
@@ -138,4 +163,4 @@ Other selected certificates (full list with credential IDs on [virender.in/certi
 - LinkedIn: [virenderdhiman](https://linkedin.com/in/virenderdhiman)
 - Email: [virrdhiman@gmail.com](mailto:virrdhiman@gmail.com)
 
-Open to advisory, project-based and retainer engagements, remote or hybrid.
+Open to full-time AI / automation / IT & digital-transformation leadership roles (India, Gulf, Europe, remote) and to advisory, project and retainer engagements.
