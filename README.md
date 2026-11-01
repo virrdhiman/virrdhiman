@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Virender Dhiman</h1>
 
 <p align="center">
-  <b>AI & Workflow Automation Consultant (Independent) · Automation / AI & Transformation Head @ FlightPath</b><br>
+  <b>Independent AI & Workflow Automation Consultant</b> (Apr 2026 – Present) · Key client: FlightPath InfoGain<br>
   15+ years in IT, ERP (SAP, Tally) & MIS · Founder, <a href="https://productiveit.in/">Productive iT</a> · Delhi, India<br>
   I turn manual business operations into AI agents, automated workflows and trustworthy dashboards
 </p>
@@ -23,7 +23,7 @@
 
 I build systems that run before the meeting. I help business owners and leadership teams find where AI and automation will actually pay off, then get it built and adopted.
 
-I've worked where business and technology meet since 2008: first as a software engineer, then four years as an SAP MM consultant, then nearly ten years as Manager (IT & ERP) at Rhiti Group. There I ran ERP operations, MIS reporting and Google Workspace, and cut record-management errors by about 15% with SOPs and cleaner reporting. Since April 2026 I've been an independent consultant on AI, automation and digital transformation.
+I've worked where business and technology meet since 2008: first as a software engineer, then four years as an SAP MM consultant, then nearly ten years as Manager (IT & ERP) at Rhiti Group. There I ran ERP operations, MIS reporting and Google Workspace, and cut record-management errors by about 15% with SOPs and cleaner reporting. Since April 2026 I've been an independent AI & workflow automation consultant, with FlightPath InfoGain as a key client.
 
 **How I work:** Diagnose → SOP → Automate → MIS. Process first, tools second.
 
@@ -112,6 +112,14 @@ A desktop AI coding agent that works with free API keys. It pairs an AI assistan
 - [excel-tools](https://github.com/virrdhiman/excel-tools): small Python utility for building Excel workbooks
 
 </details>
+
+### Other projects
+
+- **[ProposalKit India](https://proposalkit-india.vercel.app)** ([repo](https://github.com/virrdhiman/proposalkit-india)): AI proposals and GST-ready invoices for Indian freelancers and small agencies
+- **OpportunityOS:** tracks and prioritises job, client and business opportunities in one pipeline
+- **BrandGrowth OS:** planning and automation toolkit for brand content and growth workflows
+- **Productive iT ERP** (in development): lightweight ERP for small Indian businesses covering inventory, orders, billing and MIS
+- **E-commerce Order Automation:** order, invoice and report automation for Flipkart, Amazon and Samsung seller operations
 
 ## Selected work
 
