@@ -160,8 +160,8 @@ Other selected certificates (full list with credential IDs on [virender.in/certi
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=virrdhiman&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default" alt="Virender's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virrdhiman&layout=compact&hide_border=true" alt="Top languages">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=virrdhiman&amp;theme=default" alt="Virender's GitHub stats">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=virrdhiman&amp;theme=default" alt="Top languages">
 </p>
 
 ## Let's connect
