@@ -148,11 +148,11 @@ Other selected certificates (full list with credential IDs on [virender.in/certi
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Backup Restore Drills for Small IT Teams](https://virender.in/blog/backup-restore-drills-small-it-teams.html)
+- [The One-Page Decision Memo for Busy Leaders](https://virender.in/blog/one-page-decision-memo-for-leaders.html)
+- [Vendor Onboarding Checklist for Operations Teams](https://virender.in/blog/vendor-onboarding-checklist-operations.html)
+- [Google Sheets and Apps Script Automation: Guardrails That Keep It Reliable](https://virender.in/blog/google-sheets-apps-script-automation-guardrails.html)
 - [Leading delivery with calm priorities](https://virender.in/blog/leadership-leading-delivery-with-calm-priorities.html)
-- [Systems that stay maintainable under change](https://virender.in/blog/systems-that-stay-maintainable-under-change.html)
-- [Operational clarity without extra ceremony](https://virender.in/blog/ops-operational-clarity-without-extra-ceremony.html)
-- [Improving workflows with practical automation](https://virender.in/blog/automation-improving-workflows-with-practical.html)
-- [SLA Boards Ops Teams Actually Trust](https://virender.in/blog/sla-boards-ops-teams-actually-trust.html)
 <!-- BLOG-POST-LIST:END -->
 
 [All articles](https://virender.in/blog/) · [RSS](https://virender.in/blog/feed.xml)
