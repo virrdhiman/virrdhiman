@@ -1,13 +1,15 @@
 <h1 align="center">Hi, I'm Virender Dhiman</h1>
 
 <p align="center">
-  <b>Independent AI & Workflow Automation Consultant</b> (Apr 2026 – Present) · Key client: FlightPath InfoGain<br>
-  15+ years in IT, ERP (SAP, Tally) & MIS · Founder, <a href="https://productiveit.in/">Productive iT</a> · Delhi, India<br>
-  I turn manual business operations into AI agents, automated workflows and trustworthy dashboards
+  <b>Independent AI & Workflow Automation Consultant</b> (Apr 2026 â€“ Present)<br>
+  Founder, <a href="https://primespaceworks.com/">PrimeSpaceWorks</a>
+  Â· Clients include FlightPath InfoGain and Productive iT<br>
+  15+ years in IT, ERP & MIS Â· I turn manual operations into AI agents, automated workflows and trustworthy dashboards
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-AI%20%2F%20Automation%20%26%20IT%20leadership%20roles%20·%20India%20·%20Gulf%20·%20Europe%20·%20Remote-2EA44F?style=flat-square" alt="Open to roles">
+  <img src="https://img.shields.io/badge/India-leadership%20roles%20with%20a%20team%20only-2EA44F?style=flat-square" alt="India: leadership with a team">
+  <img src="https://img.shields.io/badge/Overseas%20%26%20remote-open%20to%20IT%20%2F%20AI%20%26%20automation%20roles-0A66C2?style=flat-square" alt="Overseas and remote">
 </p>
 
 <p align="center">
@@ -21,28 +23,30 @@
 
 ## About me
 
-I build systems that run before the meeting. I help business owners and leadership teams find where AI and automation will actually pay off, then get it built and adopted.
+I build systems that run before the meeting. I help business owners and leadership teams find where AI and automation will actually pay off, then get it built and adopted â€” and I lead the delivery, not only the build.
 
-I've worked where business and technology meet since 2008: first as a software engineer, then four years as an SAP MM consultant, then nearly ten years as Manager (IT & ERP) at Rhiti Group. There I ran ERP operations, MIS reporting and Google Workspace, and cut record-management errors by about 15% with SOPs and cleaner reporting. Since April 2026 I've been an independent AI & workflow automation consultant, with FlightPath InfoGain as a key client.
+I have worked where business and technology meet since 2008, including nearly ten years as Manager (IT & ERP) at Rhiti Group. There I ran ERP operations, MIS reporting and Google Workspace, and cut record-management errors by about 15% with SOPs and cleaner reporting. Since April 2026 I have been an independent AI and workflow automation consultant, and I am the founder of PrimeSpaceWorks. Consulting clients include FlightPath InfoGain and Productive iT.
 
-**How I work:** Diagnose → SOP → Automate → MIS. Process first, tools second.
+**How I work:** Diagnose â†’ SOP â†’ Automate â†’ MIS. Process first, tools second.
+
+In India I am open only to **leadership roles with a team** (AI Lead, AI Delivery Manager, Solution Lead, or similar). Overseas and remote, I am open to IT, AI and automation roles more broadly.
 
 ## At a glance
 
 | | |
 |---|---|
-| 🤖 **AI & automation** | AI agents, LLM tools (Groq, Gemini, Ollama), Python and Apps Script automation |
-| 🏢 **ERP / CRM** | 4 yrs SAP MM consultant, ~10 yrs Manager IT & ERP (Rhiti Group), Tally, Salesforce, Zoho |
-| 📊 **MIS & BI** | Power BI, Tableau, Excel and Sheets KPI packs; ~15% fewer record errors |
-| 🚀 **Delivery** | Lean Six Sigma Green Belt, Agile Scrum Master, Digital Project Manager |
+| ðŸ¤– **AI & automation** | AI agents, LLM tools (Groq, Gemini, Ollama), Python and Apps Script automation |
+| ðŸ¢ **ERP / CRM leadership** | ~10 yrs Manager IT & ERP (Rhiti Group); Tally, Salesforce, Zoho; process, data quality and adoption |
+| ðŸ“Š **MIS & BI** | Power BI, Tableau, Excel and Sheets KPI packs; ~15% fewer record errors |
+| ðŸš€ **Delivery** | Lean Six Sigma Green Belt, Agile Scrum Master, Digital Project Manager; I lead developers and vendors through go-live |
 
 ## What I do
 
 - **AI agents & workflow automation:** order processing, invoicing, document handling, customer operations, follow-ups and reporting
-- **Python automation:** scripts, desktop tools and agent back-ends that take repetitive work off people's plates
-- **CRM / ERP optimisation:** SAP, Tally, Salesforce and Zoho, with cleaner data, better adoption and processes that match how the business really runs
+- **Python / TypeScript automation:** desktop tools and agent back-ends that take repetitive work off people's plates
+- **CRM / ERP optimisation:** cleaner data, better adoption, and processes that match how the business really runs
 - **Data integration & BI:** KPI trackers, MIS packs and dashboards in Power BI, Tableau, Excel and Google Sheets
-- **Delivery oversight:** requirements, solution architecture, and managing developers and vendors through go-live and adoption
+- **Delivery leadership:** requirements, solution architecture, and managing a team of developers and vendors through go-live and adoption
 
 ## Tech stack
 
@@ -66,7 +70,6 @@ I've worked where business and technology meet since 2008: first as a software e
 
 **Business systems & BI**
 
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Zoho](https://img.shields.io/badge/Zoho-C8202B?style=flat-square&logo=zoho&logoColor=white)
 ![Tally ERP](https://img.shields.io/badge/Tally%20ERP-1F4E79?style=flat-square)
@@ -76,7 +79,7 @@ I've worked where business and technology meet since 2008: first as a software e
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
 
-## Featured project
+## Featured projects
 
 ### [VD Agent (desktop-agent)](https://github.com/virrdhiman/desktop-agent)
 
@@ -85,51 +88,32 @@ A desktop AI coding agent that works with free API keys. It pairs an AI assistan
 - Automatic model selection and fallback across free providers (for example Groq and Google Gemini), or fully offline with Ollama
 - Plan Mode, approval prompts for risky actions, recovery checkpoints, and searchable local chat history
 - No account and no telemetry: chats, settings and keys stay on your machine
-- Windows, macOS and Linux · TypeScript, React, Electron, Vite
+- Windows, macOS and Linux Â· TypeScript, React, Electron, Vite
 - Installers for those platforms are in the latest release, [v1.1.0](https://github.com/virrdhiman/desktop-agent/releases/tag/v1.1.0)
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Stars](https://img.shields.io/github/stars/virrdhiman/desktop-agent?style=flat-square)
 
 ### More public projects
 
 | Project | Value in one line | Stack |
 |---|---|---|
-| [ProposalKit India](https://github.com/virrdhiman/proposalkit-india) | AI proposals + GST-ready invoices for Indian freelancers and small agencies | TypeScript, AI |
+| [ProposalKit India](https://github.com/virrdhiman/proposalkit-india) | AI proposals + GST-ready invoices for Indian freelancers and small agencies â€” [live demo](https://proposalkit-india.vercel.app) | TypeScript, Next.js, AI |
 | [agentic-ai-solution](https://github.com/virrdhiman/agentic-ai-solution) | Orchestrator + tools + REST API for autonomous engineering agents | Python, Docker |
 | [audio-transcript](https://github.com/virrdhiman/audio-transcript) | Call recordings to Word transcripts with word-level timestamps | Python, faster-whisper |
 | [reel-voiceover-generator](https://github.com/virrdhiman/reel-voiceover-generator) | Timed voiceovers for Reels and LinkedIn videos in minutes | Python, Edge TTS, FFmpeg |
-| [excel-tools](https://github.com/virrdhiman/excel-tools) | Generate multi-sheet Excel workbooks from code | Python, pandas, openpyxl |
 
-<details><summary>Full list</summary>
+### Other work
 
-- [agentic-ai-solution](https://github.com/virrdhiman/agentic-ai-solution): autonomous agentic engineering system (orchestrator, providers, tools, CLI + REST API; Python, Docker)
-- [audio-transcript](https://github.com/virrdhiman/audio-transcript): desktop app that turns call/audio recordings into Word transcripts with word-level timestamps (Python, faster-whisper)
-- [reel-voiceover-generator](https://github.com/virrdhiman/reel-voiceover-generator): timed voiceover audio for Reels/LinkedIn videos (Python, Edge TTS, FFmpeg)
-- [hyperframes-video-agent-master](https://github.com/virrdhiman/hyperframes-video-agent-master): HTML + GSAP video compositions rendered to deterministic video (HyperFrames)
-- [safe-oom-resolver](https://github.com/virrdhiman/safe-oom-resolver): data-safe fix kit for Windows/macOS out-of-memory crashes
-- [excel-tools](https://github.com/virrdhiman/excel-tools): small Python utility for building Excel workbooks
-
-</details>
-
-### Other projects
-
-- **[ProposalKit India](https://proposalkit-india.vercel.app)** ([repo](https://github.com/virrdhiman/proposalkit-india)): AI proposals and GST-ready invoices for Indian freelancers and small agencies
 - **OpportunityOS:** tracks and prioritises job, client and business opportunities in one pipeline
 - **BrandGrowth OS:** planning and automation toolkit for brand content and growth workflows
-- **Productive iT ERP** (in development): lightweight ERP for small Indian businesses covering inventory, orders, billing and MIS
-- **E-commerce Order Automation:** order, invoice and report automation for Flipkart, Amazon and Samsung seller operations
+- **E-commerce order automation:** order, invoice and report automation for marketplace seller operations (client work)
 
 ## Selected work
 
-Case studies from my consulting and ERP/CRM work, written up on [virender.in](https://virender.in/case-studies/):
+Case studies from consulting and ERP/CRM work, written up on [virender.in](https://virender.in/case-studies/):
 
 - [CRM Data Hygiene Automation](https://virender.in/case-studies/crm-data-hygiene-automation.html): validation rules, duplicate checks and exception queues that made CRM reporting trustworthy
-- [ERP–CRM Platform Alignment](https://virender.in/case-studies/erp-crm-alignment.html): aligning ERP and Salesforce CRM for data accuracy
+- [ERPâ€“CRM Platform Alignment](https://virender.in/case-studies/erp-crm-alignment.html): aligning ERP and CRM for data accuracy
 - [Invoice Exception Automation](https://virender.in/case-studies/invoice-exception-automation.html): named AP exception categories, owned queues and SLAs
 - [MIS Dashboards & KPI Trackers](https://virender.in/case-studies/mis-dashboards.html): structured reporting and about 15% fewer record-management inaccuracies
-
 
 ## Certifications
 
@@ -155,13 +139,13 @@ Other selected certificates (full list with credential IDs on [virender.in/certi
 - [Leading delivery with calm priorities](https://virender.in/blog/leadership-leading-delivery-with-calm-priorities.html)
 <!-- BLOG-POST-LIST:END -->
 
-[All articles](https://virender.in/blog/) · [RSS](https://virender.in/blog/feed.xml)
+[All articles](https://virender.in/blog/) Â· [RSS](https://virender.in/blog/feed.xml)
 
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=virrdhiman&amp;theme=default" alt="Virender's GitHub stats">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=virrdhiman&amp;theme=default" alt="Top languages">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=virrdhiman&theme=default" alt="Virender's GitHub stats">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=virrdhiman&theme=default" alt="Top languages">
 </p>
 
 ## Let's connect
@@ -171,4 +155,4 @@ Other selected certificates (full list with credential IDs on [virender.in/certi
 - LinkedIn: [virenderdhiman](https://linkedin.com/in/virenderdhiman)
 - Email: [virrdhiman@gmail.com](mailto:virrdhiman@gmail.com)
 
-Open to full-time AI / automation / IT & digital-transformation leadership roles (India, Gulf, Europe, remote) and to advisory, project and retainer engagements.
+In India I am open to full-time **AI / automation leadership roles with a team** (AI Lead, AI Delivery Manager, Solution Lead). Overseas and remote, I am also open to IT and digital-transformation leadership. Advisory, project and retainer consulting is welcome too.
