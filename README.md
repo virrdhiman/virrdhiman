@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Virender Dhiman</h1>
 
 <p align="center">
-  <b>Independent AI & Workflow Automation Consultant</b> (Apr 2026 â€“ Present)<br>
+  <b>Independent AI & Workflow Automation Consultant</b> (Apr 2026 – Present)<br>
   Founder, <a href="https://primespaceworks.com/">PrimeSpaceWorks</a>
-  Â· Clients include FlightPath InfoGain and Productive iT<br>
-  15+ years in IT, ERP & MIS Â· I turn manual operations into AI agents, automated workflows and trustworthy dashboards
+  · Clients include FlightPath InfoGain and Productive iT<br>
+  15+ years in IT, ERP & MIS · I turn manual operations into AI agents, automated workflows and trustworthy dashboards
 </p>
 
 <p align="center">
@@ -23,11 +23,11 @@
 
 ## About me
 
-I build systems that run before the meeting. I help business owners and leadership teams find where AI and automation will actually pay off, then get it built and adopted â€” and I lead the delivery, not only the build.
+I build systems that run before the meeting. I help business owners and leadership teams find where AI and automation will actually pay off, then get it built and adopted — and I lead the delivery, not only the build.
 
 I have worked where business and technology meet since 2008, including nearly ten years as Manager (IT & ERP) at Rhiti Group. There I ran ERP operations, MIS reporting and Google Workspace, and cut record-management errors by about 15% with SOPs and cleaner reporting. Since April 2026 I have been an independent AI and workflow automation consultant, and I am the founder of PrimeSpaceWorks. Consulting clients include FlightPath InfoGain and Productive iT.
 
-**How I work:** Diagnose â†’ SOP â†’ Automate â†’ MIS. Process first, tools second.
+**How I work:** Diagnose → SOP → Automate → MIS. Process first, tools second.
 
 In India I am open only to **leadership roles with a team** (AI Lead, AI Delivery Manager, Solution Lead, or similar). Overseas and remote, I am open to IT, AI and automation roles more broadly.
 
@@ -35,10 +35,10 @@ In India I am open only to **leadership roles with a team** (AI Lead, AI Deliver
 
 | | |
 |---|---|
-| ðŸ¤– **AI & automation** | AI agents, LLM tools (Groq, Gemini, Ollama), Python and Apps Script automation |
-| ðŸ¢ **ERP / CRM leadership** | ~10 yrs Manager IT & ERP (Rhiti Group); Tally, Salesforce, Zoho; process, data quality and adoption |
-| ðŸ“Š **MIS & BI** | Power BI, Tableau, Excel and Sheets KPI packs; ~15% fewer record errors |
-| ðŸš€ **Delivery** | Lean Six Sigma Green Belt, Agile Scrum Master, Digital Project Manager; I lead developers and vendors through go-live |
+| 🤖 **AI & automation** | AI agents, LLM tools (Groq, Gemini, Ollama), Python and Apps Script automation |
+| 🏢 **ERP / CRM leadership** | ~10 yrs Manager IT & ERP (Rhiti Group); Tally, Salesforce, Zoho; process, data quality and adoption |
+| 📊 **MIS & BI** | Power BI, Tableau, Excel and Sheets KPI packs; ~15% fewer record errors |
+| 🚀 **Delivery** | Lean Six Sigma Green Belt, Agile Scrum Master, Digital Project Manager; I lead developers and vendors through go-live |
 
 ## What I do
 
@@ -88,14 +88,14 @@ A desktop AI coding agent that works with free API keys. It pairs an AI assistan
 - Automatic model selection and fallback across free providers (for example Groq and Google Gemini), or fully offline with Ollama
 - Plan Mode, approval prompts for risky actions, recovery checkpoints, and searchable local chat history
 - No account and no telemetry: chats, settings and keys stay on your machine
-- Windows, macOS and Linux Â· TypeScript, React, Electron, Vite
+- Windows, macOS and Linux · TypeScript, React, Electron, Vite
 - Installers for those platforms are in the latest release, [v1.1.0](https://github.com/virrdhiman/desktop-agent/releases/tag/v1.1.0)
 
 ### More public projects
 
 | Project | Value in one line | Stack |
 |---|---|---|
-| [ProposalKit India](https://github.com/virrdhiman/proposalkit-india) | AI proposals + GST-ready invoices for Indian freelancers and small agencies â€” [live demo](https://proposalkit-india.vercel.app) | TypeScript, Next.js, AI |
+| [ProposalKit India](https://github.com/virrdhiman/proposalkit-india) | AI proposals + GST-ready invoices for Indian freelancers and small agencies — [live demo](https://proposalkit-india.vercel.app) | TypeScript, Next.js, AI |
 | [agentic-ai-solution](https://github.com/virrdhiman/agentic-ai-solution) | Orchestrator + tools + REST API for autonomous engineering agents | Python, Docker |
 | [audio-transcript](https://github.com/virrdhiman/audio-transcript) | Call recordings to Word transcripts with word-level timestamps | Python, faster-whisper |
 | [reel-voiceover-generator](https://github.com/virrdhiman/reel-voiceover-generator) | Timed voiceovers for Reels and LinkedIn videos in minutes | Python, Edge TTS, FFmpeg |
@@ -111,7 +111,7 @@ A desktop AI coding agent that works with free API keys. It pairs an AI assistan
 Case studies from consulting and ERP/CRM work, written up on [virender.in](https://virender.in/case-studies/):
 
 - [CRM Data Hygiene Automation](https://virender.in/case-studies/crm-data-hygiene-automation.html): validation rules, duplicate checks and exception queues that made CRM reporting trustworthy
-- [ERPâ€“CRM Platform Alignment](https://virender.in/case-studies/erp-crm-alignment.html): aligning ERP and CRM for data accuracy
+- [ERP–CRM Platform Alignment](https://virender.in/case-studies/erp-crm-alignment.html): aligning ERP and CRM for data accuracy
 - [Invoice Exception Automation](https://virender.in/case-studies/invoice-exception-automation.html): named AP exception categories, owned queues and SLAs
 - [MIS Dashboards & KPI Trackers](https://virender.in/case-studies/mis-dashboards.html): structured reporting and about 15% fewer record-management inaccuracies
 
@@ -139,7 +139,7 @@ Other selected certificates (full list with credential IDs on [virender.in/certi
 - [Leading delivery with calm priorities](https://virender.in/blog/leadership-leading-delivery-with-calm-priorities.html)
 <!-- BLOG-POST-LIST:END -->
 
-[All articles](https://virender.in/blog/) Â· [RSS](https://virender.in/blog/feed.xml)
+[All articles](https://virender.in/blog/) · [RSS](https://virender.in/blog/feed.xml)
 
 ## GitHub stats
 
